@@ -1,0 +1,30 @@
+* {
+    font-family: Monaco, 'Arial Narrow Bold', sans-serif;
+    background-color: antiquewhite;
+}
+
+.heading {
+font-size: 36px;
+text-align: center;
+padding: 50px, 20px;
+margin: 20px;
+background-color: rgb(10, 160, 225);
+color: rgb(75, 75, 75);
+}
+
+.content-box {
+    padding: 50px, 30px;
+    margin: 20px;
+    font-size: 24px;
+}
+
+li, ol {
+    padding: 25px, 15px;
+    margin: 20px;
+}
+
+.home-link {
+    color: blue;
+    padding: 5px;
+    margin: 5px;
+}
